@@ -8,3 +8,7 @@ En lo que estoy trabajando:
 - Java y programación orientada a objetos
 - Bases de datos con MySQL
 - Aprendiendo Git y GitHub
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/andres-cabrera-54606531b
+- Correo: contacto.andres27@gmail.com
